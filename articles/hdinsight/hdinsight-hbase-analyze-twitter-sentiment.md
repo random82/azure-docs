@@ -1149,7 +1149,7 @@ In this section, you will create an ASP.NET MVC web application to read the real
 1. From **Solution Explorer**, expand **TweetSentimentWeb**, expand **Views**, expand **Home**, and then double-click **Index.cshtml**.
 2. Replace the content with the following:
 
-    ```
+    ```html
     @{
         ViewBag.Title = "Tweet Sentiment";
     }
